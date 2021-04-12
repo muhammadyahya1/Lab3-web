@@ -40,7 +40,7 @@ Kelas : TI 19 B2
    ![Screenshot (52)](https://user-images.githubusercontent.com/81598272/114435280-3219b780-9bee-11eb-8a85-4c562b9c3c52.png)
 
 
-3. Menambahkan Style Pada Form 
+6.  Menambahkan Style Pada Form 
    
    supaya Tampilan Form lebih menarik , maka tambahkan CSS : 
    
