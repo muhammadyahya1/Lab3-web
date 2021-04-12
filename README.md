@@ -18,7 +18,6 @@ Kelas : TI 19 B2
    Atribut cellpadding & cellspacing pada tag table.
    
    ![Screenshot (49)](https://user-images.githubusercontent.com/81598272/114433879-89b72380-9bec-11eb-83b3-d4990eaa025a.png)
-
 3. Menggabungkan cel data. 
    Menggabungkan cel data dengan menggunakan atribut rowspan dan colspan.
    Atribut rowspan untuk menggabungkan kolom secara horizontal.
@@ -29,12 +28,9 @@ Kelas : TI 19 B2
 1. MEMBUAT FORM HTML
    Dengan cara membuat file baru Form.html
    
-   
    ![Screenshot (57)](https://user-images.githubusercontent.com/81598272/114434947-cafc0300-9bed-11eb-82b9-8f52a4c9d18f.png)
    
-   
-2. Kemudian tambah kan Kode untuk membuat sebuah tabel sederhana
-
+   2. Kemudian tambah kan Kode untuk membuat sebuah tabel sederhana
         
    ![Screenshot (58)](https://user-images.githubusercontent.com/81598272/114435193-16161600-9bee-11eb-8383-e974579f5f5a.png)
 
