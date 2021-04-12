@@ -26,18 +26,21 @@ Kelas : TI 19 B2
 
 
 1. MEMBUAT FORM HTML
+
    Dengan cara membuat file baru Form.html
    
    ![Screenshot (57)](https://user-images.githubusercontent.com/81598272/114434947-cafc0300-9bed-11eb-82b9-8f52a4c9d18f.png)
    
-   2. Kemudian tambah kan Kode untuk membuat sebuah tabel sederhana
+2.  Kemudian tambah kan Kode untuk membuat sebuah tabel sederhana
         
    ![Screenshot (58)](https://user-images.githubusercontent.com/81598272/114435193-16161600-9bee-11eb-8383-e974579f5f5a.png)
+   
 
    ![Screenshot (52)](https://user-images.githubusercontent.com/81598272/114435280-3219b780-9bee-11eb-8a85-4c562b9c3c52.png)
 
 
 4. Menambahkan Style Pada Form 
+   
    supaya Tampilan Form lebih menarik , maka tambahkan CSS : 
    
    
