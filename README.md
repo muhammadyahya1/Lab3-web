@@ -4,9 +4,11 @@ Nim   : 311910814
 Kelas : TI 19 B2 
 
 1. MEMBUAT TABLE HTML
+   
    Dengan cara , buat lah file baru table.html
    
    ![Screenshot (56)](https://user-images.githubusercontent.com/81598272/114433634-3e047a00-9bec-11eb-8b29-82d5391cf15e.png)
+   
    
 
 2. Mengatur margin dan padding pada cel data, dan menambahkan
