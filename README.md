@@ -33,14 +33,15 @@ Kelas : TI 19 B2
    
 2.  Kemudian tambah kan Kode untuk membuat sebuah tabel sederhana
         
-   ![Screenshot (58)](https://user-images.githubusercontent.com/81598272/114435193-16161600-9bee-11eb-8383-e974579f5f5a.png)
+    ![Screenshot (58)](https://user-images.githubusercontent.com/81598272/114435193-16161600-9bee-11eb-8383-e974579f5f5a.png)
+    
    
    
 
    ![Screenshot (52)](https://user-images.githubusercontent.com/81598272/114435280-3219b780-9bee-11eb-8a85-4c562b9c3c52.png)
 
 
-6.  Menambahkan Style Pada Form 
+6.Menambahkan Style Pada Form 
    
    supaya Tampilan Form lebih menarik , maka tambahkan CSS : 
    
