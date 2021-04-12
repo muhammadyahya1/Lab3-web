@@ -1,6 +1,8 @@
 # Lab3-web
 Nama  : Muhammad Yahya
+
 Nim   : 311910814
+
 Kelas : TI 19 B2 
 
 1. MEMBUAT TABLE HTML
